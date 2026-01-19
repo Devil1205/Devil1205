@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with **React.js, Node.js, MongoDB, PostgreSQL and Next.js**<br>👯 I’m looking to collaborate on some amazing full stack projects<br>📝 Visit my Portfolio [here](https://pulkit1205.netlify.app)<br>🌱 I’m currently learning **Next.js, Typescript, Docker and  GraphQL**<br>💬 Ask me about **MERN stack, Sequelize, PostgreSQL, Next.js**<br>📫 How to reach me: **sachdeva.pulkit2599@gmail.com**<br>⚡ Fun fact: **I enjoy creating backend apis**
+🔭 I’m currently working with **React.js, Node.js, MongoDB, PostgreSQL and Next.js**<br>👯 I’m looking to collaborate on some amazing full stack projects<br>📝 Visit my Portfolio [here](https://pulkit-portfolio-gray.vercel.app)<br>🌱 I’m currently learning **Next.js, Typescript, Docker and  GraphQL**<br>💬 Ask me about **MERN stack, Sequelize, PostgreSQL, Next.js**<br>📫 How to reach me: **sachdeva.pulkit2599@gmail.com**<br>⚡ Fun fact: **I enjoy creating backend apis**
 
 
 ## 🌐 Socials:
